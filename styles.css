@@ -1,0 +1,25 @@
+/* Navbar + hero */
+.navbar-brand img {
+    width: 8em;
+}
+.navbar-nav li {
+    font-family: 'Poppins';
+}
+.hero {
+    font-family: 'Poppins';
+}
+
+/* CHRONOLOGIE */
+.chronologie {
+    font-family: 'Poppins';
+}
+.start-date {
+    font-weight: 600;
+    font-size: 1.2em;
+}
+
+/* PRESIDENT */
+.president {
+    font-family: 'Poppins';
+}
+
