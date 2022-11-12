@@ -23,3 +23,13 @@
     font-family: 'Poppins';
 }
 
+/* FOOTER */
+footer {
+    font-family: 'Poppins';
+}
+.footer div h6 a {
+    text-decoration: none;
+}
+.footer-brand img {
+    width: 10em;
+}
