@@ -1,12 +1,7 @@
+/*  PAGE INDEX */
 /* Navbar + hero */
 .navbar-brand img {
     width: 8em;
-}
-.navbar-nav li {
-    font-family: 'Poppins';
-}
-.hero {
-    font-family: 'Poppins';
 }
 
 /* CHRONOLOGIE */
@@ -18,18 +13,24 @@
     font-size: 1.2em;
 }
 
-/* PRESIDENT */
-.president {
-    font-family: 'Poppins';
-}
-
 /* FOOTER */
-footer {
-    font-family: 'Poppins';
-}
 .footer div h6 a {
     text-decoration: none;
 }
 .footer-brand img {
     width: 10em;
+}
+
+/* PAGE EVENTS */
+/* IMG HEADER */
+.hero-events {
+    height: 250px;
+    background: url(/Images/webp/img-header-events.webp);
+    background-size: cover;
+    margin-top: -35px;
+}
+
+/* CARDS */
+.card-date {
+    font-size: 1rem;
 }
