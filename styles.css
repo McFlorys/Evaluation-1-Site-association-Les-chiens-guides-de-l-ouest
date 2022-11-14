@@ -25,7 +25,7 @@
 /* IMG HEADER */
 .hero-events {
     height: 250px;
-    background: url(../Images/webp/img-header-events.webp);
+    background: url('../Images/webp/img-header-events.webp');
     background-size: cover;
     margin-top: -35px;
 }
