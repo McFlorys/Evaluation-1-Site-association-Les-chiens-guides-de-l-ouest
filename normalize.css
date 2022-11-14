@@ -27,3 +27,12 @@ body {
 .green-text {
     color: var(--greenprimary);
 }
+
+/* ARTICLE PRESET */
+.article-layout {
+    margin-top: -40px;
+    background-color: white;
+}
+.article-date {
+    font-size: 1rem;
+}

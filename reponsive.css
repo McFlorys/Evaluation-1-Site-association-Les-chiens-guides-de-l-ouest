@@ -3,3 +3,11 @@
         margin-top: 20px;
     }
 }
+@media screen and (max-width:991px){
+    .contact-school {
+        text-align: center;
+    }
+    .contact-title {
+        text-align: center;
+    }
+}
